@@ -30,5 +30,5 @@ $ sudo python3 portscanner.py
 #Detener el proceso de busqueda.
 Pulsar simultaneamente las teclas CRTL+C
 
-#Una vez obtenido el reporte de hosts activos, se detener el programa 
+#Una vez obtenido el reporte de los puertos abiertos en el host, se debe detener el programa 
 $ exit
