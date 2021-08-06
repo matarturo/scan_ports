@@ -11,6 +11,13 @@ See LICENSE.TXT for details.
 Es importante el mantenimiento periódico de estos equipos ya que los archivos logs del entorno GNU/Linux DebianOS 
 crecen rápidamente y se pueden llenar los discos duros generando problemas de almacenamiento de información.
 
+# Requisitos 
+
+Python => apt install python3
+Pip Python => pip install python-nmap
+
+# Descarga e instalación del script
+
 # Instalación
 
 Para correr este script se requiere ingresar al equipo con credenciales de usuario < root >
