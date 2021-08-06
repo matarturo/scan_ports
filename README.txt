@@ -17,9 +17,6 @@ Python => apt install python3
 Pip Python => pip install python-nmap
 
 # Descarga e instalación del script
-
-# Instalación
-
 Para correr este script se requiere ingresar al equipo con credenciales de usuario < root >
 
 $ cd /var/log
