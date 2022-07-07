@@ -40,3 +40,13 @@ try:
         if result == 0:
             print ("Puerto {}:  Estado => ABIERTO".format(port))
         sock.close()
+except KeyboardInterrupt:
+        print("\n Saliiendo del programa !!!!")
+        sys.exit()
+except socket.gaierror:
+        print("\n Hostname no puede ser resuelto !!!!")
+        sys.exit()
+except socket.error:
+        print("\ Host no responde !!!!")
+        sys.exit()
+
