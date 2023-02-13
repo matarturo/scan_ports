@@ -21,15 +21,15 @@ Para correr este script se requiere ingresar al equipo con credenciales de usuar
 
 $ cd /var/log
 $ sudo git clone https://github.com/matarturo/scan_ports.git
-$ cd scan_subnet
-$ sudo cp portscanner.py /var/log
+$ cd scan_ports
+$ sudo cp ports.py /var/log
 $ cd /var/log
 
 #Para editar el script
-$ sudo nano portscanner.py  
+$ sudo nano ports.py  
 
 # Ejecución del script
-$ sudo python3 portscanner.py 
+$ sudo python3 ports.py 
 
 #Detener el proceso de busqueda.
 Pulsar simultaneamente las teclas CRTL+C
