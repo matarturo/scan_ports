@@ -1,5 +1,6 @@
 # Script escrito en lenguaje Python para escaneo de puertos vulnerables en un host activo
-Autor: Arturo Mata <arturo.mata@gmail.com>
+Autor: Arturo Mata [JØKΣR]
+<arturo.mata@gmail.com>
 Script: ports.py
 Version: 1.0.0
 Repositorio: https://github.com/matarturo/
